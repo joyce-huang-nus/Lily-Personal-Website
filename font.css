@@ -1,0 +1,15 @@
+BODY
+{
+SCROLLBAR-FACE-COLOR: #e0e0e0;
+SCROLLBAR-HIGHLIGHT-COLOR: #e0e0e0;
+SCROLLBAR-SHADOW-COLOR: #c0c0c0;
+SCROLLBAR-3DLIGHT-COLOR: #e3e3e3;
+SCROLLBAR-ARROW-COLOR: black;
+SCROLLBAR-TRACK-COLOR: #ffffff;
+SCROLLBAR-DARKSHADOW-COLOR: #e3e3e3
+}
+<!--
+a:link{color:blue;text-decoration:none}
+a:visited{color:blue;text-decoration:none}
+a:hover{color:#FF0000;text-decoration:underline}
+--!>
